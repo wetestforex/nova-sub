@@ -32,22 +32,22 @@ proxies:
   - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, alterId: 0, cipher: auto, tls: true, servername: "lunar-dawn-329c.wetestforex.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "lunar-dawn-329c.wetestforex.workers.dev"}}, udp: false}
   - {name: "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01", server: 192.0.2.1, port: 443, type: vmess, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, alterId: 0, cipher: auto, tls: true, servername: "lunar-dawn-329c.wetestforex.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "lunar-dawn-329c.wetestforex.workers.dev"}}, udp: false}
   - {name: "سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]", server: lunar-dawn-329c.wetestforex.workers.dev, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]", server: 108.162.198.210, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]", server: 104.17.17.141, port: 2096, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]", server: 104.16.249.130, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]", server: 104.17.51.64, port: 8443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]", server: 8.35.211.233, port: 8443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]", server: 8.39.125.23, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]", server: 104.16.154.193, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]", server: 108.162.198.17, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]", server: 91.193.59.222, port: 2053, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]", server: 104.17.25.158, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]", server: 172.67.73.89, port: 2053, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]", server: 198.41.209.130, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]", server: 104.18.33.84, port: 2053, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]", server: 172.67.66.83, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]", server: 104.17.150.168, port: 8443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]", server: 104.17.181.254, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]", server: 8.39.125.98, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]", server: 104.17.48.148, port: 8443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]", server: 104.17.156.130, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]", server: 8.39.125.90, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]", server: 104.17.148.123, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]", server: 172.67.76.90, port: 2053, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]", server: 104.17.52.71, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]", server: 8.35.211.151, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]", server: 188.164.248.213, port: 2096, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]", server: 104.17.190.95, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]", server: 104.16.249.152, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]", server: 172.66.1.131, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]", server: 108.162.198.231, port: 8443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]", server: 104.17.171.120, port: 2087, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]", server: 172.66.2.109, port: 2083, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]", server: 188.164.248.157, port: 443, type: vless, uuid: acf151f4-c5df-4718-8a3c-a572070cc3aa, tls: true, skip-cert-verify: false, servername: lunar-dawn-329c.wetestforex.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: lunar-dawn-329c.wetestforex.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -59,22 +59,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -82,44 +82,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -127,22 +127,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -169,22 +169,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -197,22 +197,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا @irnova_proxy lunar-dawn-329c.wetestforex.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.210:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.17.141:2096 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.249.130:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.51.64:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.35.211.233:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 8.39.125.23:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.16.154.193:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 108.162.198.17:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 91.193.59.222:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.25.158:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.73.89:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 198.41.209.130:2083 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.33.84:2053 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 172.67.66.83:2087 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.150.168:8443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.17.181.254:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.98:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.48.148:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.156.130:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.39.125.90:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.148.123:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.67.76.90:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.52.71:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 8.35.211.151:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.213:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.190.95:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.16.249.152:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.1.131:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 108.162.198.231:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.17.171.120:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 172.66.2.109:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 188.164.248.157:443 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
